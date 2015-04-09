@@ -1,0 +1,47 @@
+.location{
+  border: 1px solid lightgray; 
+  border-radius: 5px;
+  display : inline-block;
+  padding: 5px;
+  margin: 3px;
+  background-color: rgba(255,255,255,0.8);
+}
+
+.location p{
+
+  margin: 0px;
+}
+
+.display_on {
+  border: 1px solid lightgray; 
+  border-radius: 5px;
+  display : block;
+  padding: 5px;
+  margin: 3px;
+  background-color: rgba(255,255,255,0.8);
+
+}
+
+#display_today{
+
+  width: 200px;
+  margin:auto;
+  
+}
+
+#display_today p{
+
+padding-left: 10px
+
+}
+
+body{
+
+background-image: url('https://melodywren.files.wordpress.com/2011/04/p1040585.jpg');
+background-size: cover;
+
+}
+
+#search_result{
+  text-align: center;
+}
